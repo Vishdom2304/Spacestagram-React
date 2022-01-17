@@ -1,0 +1,95 @@
+[
+  {
+    "copyright": "Nigel Sharp",
+    "date": "2007-06-24",
+    "explanation": "It is still not known why the Sun's light is missing some colors.  Shown above are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The above spectrum was created at the  McMath-Pierce Solar Observatory and shows, first off, that although our yellow-appearing Sun emits light of nearly every color, it does indeed appear brightest in yellow-green light.  The dark patches in the above spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1870 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0604/solarspectrum_noao.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "All the Colors of the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0604/solarspectrum_noao_big.jpg"
+  },
+  {
+    "date": "2000-07-25",
+    "explanation": "This is what a star really looks like from the surface of the Earth.  To the best the human eye can see, stars are so far away they appear the same as would infinitesimal points of light.  The Earth's atmosphere, however, is clumpy, so that different air pockets produce different images of a single point-like star.  Because the atmosphere is always windy and changing, the number and position of images is always changing, with the result that stars appear to twinkle.  In reality, the above time-lapse sequence occurs ten times faster.  Close inspection will reveal a single small image of the star that is repeated over and over.  This image is called a speckle and its size is again not really infinitesimal, but determined by strange quantum effects that involve the finite size of the telescope.  Recent work in adaptive optics (\"rubber mirrors\") have made spectacular advances in reducing this atmospheric blurring. Betelgeuse is the star twinkling above, and in space, above the Earth's atmosphere, it really looks like this.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0007/AlphaOri_cardiff.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Why Stars Twinkle",
+    "url": "https://apod.nasa.gov/apod/image/0007/AlphaOri_cardiff_big.gif"
+  },
+  {
+    "date": "2012-02-10",
+    "explanation": "This sharp Hubble Space Telescope view looks deep into NGC 6752. Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 holds over 100 thousand stars in a sphere about 100 light-years in diameter, but the Hubble image frame spans the central 10 or so light-years and resolves stars near the dense cluster core. In fact the frame includes some of the cluster's blue straggler stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. Explorations of the NGC 6752 have also indicated that a remarkable fraction of the stars near the cluster's core, are multiple star systems, supporting arguments that star mergers and collisions in the dense stellar environment can create the cluster's blue straggler stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/1202/ngc6752core_hst.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "At the Core of NGC 6752",
+    "url": "https://apod.nasa.gov/apod/image/1202/ngc6752core_hst900.jpg"
+  },
+  {
+    "date": "1998-07-29",
+    "explanation": "These high resolution false color pictures of the Galactic center region in high energy X-ray and gamma-ray light result from a very long exposure of roughly 3,000 hours performed from 1990 to 1997 by the French SIGMA telescope onboard the Russian GRANAT spacecraft. Each image covers a 14x14 degree field which includes most of the central bulge of our Milky Way Galaxy. The X-ray picture (left) reveals a cluster of sources releasing enormous amounts of energy. They are probably binary star systems where matter accretes onto a collapsed object, either a neutron star or a black hole. But according to recent theories, only those binary systems with black holes can radiate above X-ray energies -- in the gamma-ray regime. In that case, the SIGMA sources also shining in the gamma-ray picture (right) betray the presence of accreting stellar black holes! Surprisingly, no high energy source seems to coincide exactly with the Galactic center itself, located near the brightest source at the bottom of both pictures. This indicates that the large black hole thought to be lurking there is unexpectedly quiet at these energies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9807/galcen_sigma2.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The High Energy Heart Of The Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/9807/galcen_sigma2.jpg"
+  },
+  {
+    "copyright": "Stephane Vetter",
+    "date": "2018-11-23",
+    "explanation": "On November 17, just an hour before sunrise, this bright and colorful meteor flashed through clear predawn skies. Above a sea of clouds this striking autumn morning's moment was captured from Hochblauen, a prominent 1165 meter high summit in southern Germany's Black Forest. Shining through the twilight, Sirius as well as the familiar stars of Orion are recognizable near the southwestern horizon, and the meteor seems headed right for the hunter's belt and sword. Still, as part of the annual Leonid meteor shower, the meteor trail does point back to the shower's radiant. The constellation Leo is high above the horizon and off the top left of the frame.",
+    "hdurl": "https://apod.nasa.gov/apod/image/1811/leonidSV_1300.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Good Morning Leonid",
+    "url": "https://apod.nasa.gov/apod/image/1811/leonidSV_1000.jpg"
+  },
+  {
+    "date": "2016-01-10",
+    "explanation": "What's happening to our Sun?  Another Coronal Mass Ejection (CME)!  The Sun-orbiting SOHO spacecraft has imaged many erupting filaments lifting off the active solar surface and blasting enormous bubbles of magnetic plasma into space. Direct light from the sun is blocked in the inner part of the featured image, taken in 2002, and replaced by a simultaneous image of the Sun in ultraviolet light.  The field of view extends over two million kilometers from the solar surface. While hints of these explosive events, called coronal mass ejections or CMEs, were discovered by spacecraft in the early 70s, this dramatic image is part of a detailed record of this CME's development from the presently operating SOHO spacecraft.  Near the maximum of the solar activity cycle, CMEs now typically occur several times a week.  Strong CMEs may profoundly influence space weather. Those directed toward our planet can have serious effects.   Astrophysicists: Browse 1,100+ codes in the Astrophysics Source Code Library",
+    "hdurl": "https://apod.nasa.gov/apod/image/1601/CMEsun_soho_1875.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sun Storm: A Coronal Mass Ejection",
+    "url": "https://apod.nasa.gov/apod/image/1601/CMEsun_soho_960.jpg"
+  },
+  {
+    "date": "2002-01-05",
+    "explanation": "Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the vacuum of space. This sharp picture from the command module America, shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine itself underneath. The hatch allowing access to the lunar surface is visible in the front and a round radar antenna appears at the top. This spaceship performed gracefully, landing on the moon and returning the Apollo astronauts to the orbiting command module in December of 1972 - but where is Challenger now? Its descent stage remains at the Apollo 17 landing site, Taurus-Littrow. The ascent stage was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth. Apollo 17's mission was the sixth and last time astronauts have landed on the moon. Editor's note: Eric Jones, Apollo Lunar Surface Journal editor, comments; \"If you look at the [... large, dark] triangular window, you'll see a bright rectangular area - which is the rendezvous window - beneath it, a bright arc. After much discussion, my team of volunteers and I concluded that the bright arc is the top of [mission commander] Gene Cernan's bubble helmet lit by sunlight ...\"",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/challenger_apollo17_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 17's Moonship",
+    "url": "https://apod.nasa.gov/apod/image/0201/challenger_apollo17.jpg"
+  },
+  {
+    "copyright": "Malin Space Science SystemsMOCMGSJPLNASA",
+    "date": "2004-08-31",
+    "explanation": "What causes the black dots on dunes on Mars?  As spring dawns on the Northern Hemisphere of Mars, dunes of sand near the poles begin to defrost.  Thinner regions of ice typically thaw first revealing sand whose darkness soaks in sunlight and accelerates the thaw.  By summer, the spots will have expanded to encompass the entire dunes that will then be completely thawed and dark. The carbon dioxide and water ice actually sublime in the thin atmosphere directly to gas.  Taken in mid-July, the above image shows a field of spotted polar dunes spanning about 3 kilometers near the Martian North Pole.  Meanwhile, in the Southern Hemisphere of Mars, the Earth-sent robot Martian rovers will try to survive through Martian winter, which peaks in mid-September.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0408/dotteddunes_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Dotted Dunes of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0408/dotteddunes_mgs.jpg"
+  },
+  {
+    "copyright": "Gy\u00f6rgy\nBajm\u00f3czy",
+    "date": "2016-12-21",
+    "explanation": "This year the December Solstice is today, December 21, at 10:44 UT, the first day of winter in the north and summer in the south. To celebrate, watch this amazing timelapse video tracing the Sun's apparent movement over an entire year from Hungary. During the year, a fixed video camera captured an image every minute. In total, 116,000 exposures follow the Sun's position across the field of view, starting from the 2015 June 21 solstice through the 2016 June 20 solstice. The intervening 2015 December 22 solstice is at the bottom of the frame. The timelapse sequences constructed show the Sun's movement over one day to begin with, followed by traces of the Sun's position during the days of one year, solstice to solstice. Gaps in the daily curves are due to cloud cover. The video ends with stunning animation sequences of analemmas, those figure-8 curves you get by photographing the Sun at the same time each day throughout a year, stepping across planet Earth's sky.",
+    "media_type": "video",
+    "service_version": "v1",
+    "title": "Traces of the Sun",
+    "url": "https://www.youtube.com/embed/ZS2FvljQXsk?rel=0"
+  },
+  {
+    "date": "2002-11-24",
+    "explanation": "Why put observatories in space?  Most telescopes are on the ground.  On the ground, you can deploy a heavier telescope and fix it more easily.  The trouble is that Earth-bound telescopes must look through the Earth's atmosphere. First, the Earth's atmosphere blocks out a broad range of the electromagnetic spectrum, allowing a narrow band of visible light to reach the surface. Telescopes which explore the Universe using light beyond the visible spectrum, such as those onboard the Chandra X-ray Observatory need to be carried above the absorbing atmosphere. Second, the Earth's atmosphere blurs the light it lets through.  The blurring is caused by varying density and continual motion of air.  By orbiting above the Earth's atmosphere, the Hubble Space Telescope, pictured above, can get clearer images. In fact, even though HST has a mirror 15 times smaller than large Earth-bound telescopes, it can still resolve finer details. A future large optical telescope in space is planned.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/hst_sts82_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hubble Floats Free",
+    "url": "https://apod.nasa.gov/apod/image/0211/hst_sts82.jpg"
+  }
+]
