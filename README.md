@@ -10,7 +10,7 @@ The website uses NASA's APOD api from where it fetches all the newsfeeds as requ
   <li>JavaSript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>The API used for fetching the latest news is NASA's APOD api</li>
+  <li>The API used for fetching the latest feeds is NASA's APOD api</li>
 </ul>
 
 ### Some `Features` of Spacestagram :- 
